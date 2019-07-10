@@ -1,6 +1,9 @@
 object sub3 {
   def main(args: Array[String]): Unit = {
-    println("I am awesome")
+    var sum = 100 to 10
+    for (i <- sum by -2) {
+      println(i)
 
+    }
   }
 }
