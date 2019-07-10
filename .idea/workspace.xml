@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46097b2d-cdeb-4209-9f93-b0f3112acf6f" name="Default Changelist" comment="" />
+    <list default="true" id="46097b2d-cdeb-4209-9f93-b0f3112acf6f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/sub2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/sub2.scala" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -22,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/sub1.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -31,12 +33,25 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/sub2.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/sub1.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sub2.scala" />
       </list>
     </option>
   </component>
@@ -46,6 +61,7 @@
     <option name="width" value="1279" />
     <option name="height" value="701" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -84,6 +100,9 @@
       </pane>
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
@@ -101,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.sub1">
+  <component name="RunManager" selected="Application.sub3">
     <configuration name="sub1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="sub1" />
       <module name="Mark1" />
@@ -116,8 +135,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sub3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sub3" />
+      <module name="Mark1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sub3" />
         <item itemvalue="Application.sub1" />
         <item itemvalue="Application.sub2" />
       </list>
@@ -220,6 +247,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sub2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

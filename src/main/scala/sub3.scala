@@ -1,7 +1,6 @@
-object sub2 {
+object sub3 {
   def main(args: Array[String]): Unit = {
-    println("be cool")
+    println("I am awesome")
 
   }
-
-  }
+}
